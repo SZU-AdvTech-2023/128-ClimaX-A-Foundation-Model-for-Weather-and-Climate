@@ -1,0 +1,6 @@
+@article{REPO128,
+    author = "Nguyen, Tung and Brandstetter, Johannes and Kapoor, Ashish and Gupta, Jayesh K and Grover, Aditya",
+    journal = "arXiv preprint arXiv:2301.10343",
+    title = "{ClimaX: A Foundation Model for Weather and Climate}",
+    year = "2023"
+}
